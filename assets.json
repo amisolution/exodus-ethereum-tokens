@@ -1,5 +1,17 @@
 [
   {
+    "name": "amis",
+    "properName": "AMIS",
+    "decimals": 9,
+    "displayUnit": "AMIS",
+    "shapeShiftUnit": "amis",
+    "blockExplorer": "0x949bEd886c739f1A3273629b3320db0C5024c719",
+    "addresses": {
+        "current": "0x949bEd886c739f1A3273629b3320db0C5024c719"
+    },
+    "color": "#FFFFFF"
+  },
+  {
     "name": "aragon",
     "properName": "Aragon",
     "decimals": 18,
